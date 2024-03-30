@@ -1,45 +1,55 @@
 
-@charset "UTF-8";
-
-header {
+h1 /*seletor*/ {
     background-color: rgb(25, 120, 244);
     color: white;
    
 }
-.cabecalho nav ul li a {
-    color: white; 
-    text-decoration: none;
-}
-.link {
-    color: white;
-}
-h1 {
-    font-family: 'Times New Roman', Times, serif;
 
-}
-h2 {
+h1, h2 {
     font-family: 'Times New Roman', Times, serif;
-}    
-nav {
-    font-weight: 400;
 }
+
+.link{
+   color: white;
+}
+
+nav ul li a {
+    font-weight: 400; 
+}
+
 .container {
     margin: 20px;
 }
-form {
-    border: 1px solid gray;
-    padding: 10px;
-}
-p {
-    color: green;
-}
-#formulario button {
-    background-color: rgb(43, 43, 252);
-    color: white;
-}
-footer {
-    border-top: 2px solid red;
-}
+
 #espaçamento {
     line-height: 1.5;
+}
+
+form {
+    border: 1px solid rgb(65, 64, 64); 
+    padding: 10px;
+}
+
+p {
+    color:rgb(129, 165, 92)
+}
+
+#formulario button {
+    background-color: rgb(25, 120, 244); 
+    color: white; 
+
+}
+
+#rodape {
+    border-top: 2px  solid red /
+}
+
+.cabecalho {
+    background-color: rgb(25, 120, 244); 
+    color: white; 
+ 
+}
+.cabecalho nav ul li a {
+    color: white; 
+    text-decoration: none;
 }
