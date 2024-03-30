@@ -1,5 +1,5 @@
 
-h1 /*seletor*/ {
+header {
     background-color: rgb(25, 120, 244);
     color: white;
    
@@ -42,12 +42,6 @@ p {
 
 #rodape {
     border-top: 2px  solid red 
-}
-
-.cabecalho {
-    background-color: rgb(25, 120, 244); 
-    color: white; 
- 
 }
 .cabecalho nav ul li a {
     color: white; 
