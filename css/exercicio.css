@@ -19,3 +19,6 @@ form {
     border: 1px solid gray;
     padding: 10px;
 }
+p {
+    color: green;
+}
