@@ -1,7 +1,7 @@
 
 header {
     background-color: rgb(25, 120, 244);
-    color: white;
+    color: rgb(0, 0, 0);
    
 }
 
@@ -10,11 +10,11 @@ h1, h2 {
 }
 
 .link{
-   color: white;
+   color: rgb(0, 0, 0);
 }
 
 nav ul li a {
-    font-weight: 400; 
+    font-weight: bold; 
 }
 
 .container {
@@ -44,6 +44,6 @@ p {
     border-top: 2px  solid red 
 }
 .cabecalho nav ul li a {
-    color: white; 
+    color: rgb(0, 0, 0); 
     text-decoration: none;
 }
