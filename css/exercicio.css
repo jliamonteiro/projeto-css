@@ -4,6 +4,11 @@ header {
     background-color: rgb(25, 25, 244);
 }
 h1 {
-    font-family: '';
+    font-family: 'Times New Roman', Times, serif
 }
-    
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+}    
+nav {
+    font-weight
+}
