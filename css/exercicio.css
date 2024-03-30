@@ -26,4 +26,6 @@ buttom {
     background-color: rgb(43, 43, 252);
     color: white;
 }
-footer {}
+footer {
+    border-top: 2px solid red;
+}
